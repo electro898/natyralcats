@@ -1,5 +1,5 @@
 import Layout from "../../components/Layout";
-import PageWrapper from "../components/PageWrapper";
+import PageWrapper from "../../components/PageWrapper";
 
 function RoomItem(props) {
   // console.log(props);
